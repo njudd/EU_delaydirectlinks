@@ -5,7 +5,5 @@ Airlines have the bad habit of hiding their compensation claim forms. So I thoug
 right now it's a work in progress!
 
 
-## Norwegian
-
-https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY
+## ![Norwegian](https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY)
 
