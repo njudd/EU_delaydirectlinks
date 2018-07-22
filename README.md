@@ -7,4 +7,7 @@ right now it's a work in progress!
 
 ## [Norwegian](https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY)
 
+## [Ryanair](https://eu261expenseclaim.ryanair.com)
+
 ## [SAS](https://www.care.flysas.com/selfservice/feedbackform/Sections/EU261Steps)
+
