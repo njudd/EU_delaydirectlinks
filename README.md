@@ -11,7 +11,7 @@ quote of what "care" means
 
 - link to distace calculator 
 
-| < 1500km | 1500 - 2500 km | +2500km
+ < 1500km | 1500 - 2500 km | +2500km
 -- | -- | -- | --
 1hr | 125e | test | test
 
