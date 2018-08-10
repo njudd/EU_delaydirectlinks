@@ -8,11 +8,11 @@ right now it's a work in progress!
 <br>
 [distance & delay info](https://www.flightera.net/)
 
-## right to compensation
+## Right to compensation
 
  1500km | 1500 - 2500 km | +2500km
  -- | -- | --
- 250 | 400 | 600
+ 250e | 400e | 600e
   
 
 ## [Norwegian](https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY)
