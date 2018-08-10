@@ -6,7 +6,7 @@ right now it's a work in progress!
 
 [wiki](https://www.wikiwand.com/en/Flight_Compensation_Regulation_261/2004)
 <br>
-[distance & delay info](https://www.flightera.net/) search your flight number in the search field
+[distance & delay info](https://www.flightera.net/) (search your flight number in the search field)
 
 ## Right to compensation
 
