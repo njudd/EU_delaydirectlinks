@@ -5,6 +5,7 @@ Airlines have the bad habit of hiding their compensation claim forms. So I thoug
 right now it's a work in progress!
 
 [wiki](https://www.wikiwand.com/en/Flight_Compensation_Regulation_261/2004)
+<br>
 [distance & delay info](https://www.flightera.net/)
 
 ## right to compensation
