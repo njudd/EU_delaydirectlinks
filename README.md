@@ -14,10 +14,19 @@ right now it's a work in progress!
  -- | -- | --
  250e | 400e | 600e
   
+  
+## [Easy Jet](https://www.easyjet.com/en/claim/welfare)
 
 ## [Norwegian](https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY)
 
 ## [Ryanair](https://eu261expenseclaim.ryanair.com)
+
+Further barriers
+<br>
+- The also want a document with your bank information, you can just write it on a sheet of paper and take a photo.
+<br>
+- Ryanair also makes you calculate the amount you are owed on the form.
+
 
 ## [SAS](https://www.care.flysas.com/selfservice/feedbackform/Sections/EU261Steps)
 
