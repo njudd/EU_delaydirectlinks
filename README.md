@@ -24,7 +24,6 @@ right now it's a work in progress!
 Further barriers
 <br>
 - The also want a document with your bank information, you can just write it on a sheet of paper and take a photo.
-<br>
 - Ryanair also makes you calculate the amount you are owed on the form.
 
 
