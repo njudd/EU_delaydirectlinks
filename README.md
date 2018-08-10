@@ -10,9 +10,9 @@ right now it's a work in progress!
 
 ## Right to compensation
 
- 1500km | 1500 - 2500 km | +2500km
- -- | -- | --
- 250e | 400e | 600e
+Distance | 1500km | 1500 - 2500 km | +2500km
+-- | -- | -- | --
+Euros | 250 | 400 | 600
   
   
 ## [Easy Jet](https://www.easyjet.com/en/claim/welfare)
