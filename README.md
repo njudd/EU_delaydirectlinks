@@ -5,17 +5,14 @@ Airlines have the bad habit of hiding their compensation claim forms. So I thoug
 right now it's a work in progress!
 
 [wiki](https://www.wikiwand.com/en/Flight_Compensation_Regulation_261/2004)
-
-## right to care 
-quote of what "care" means
+[distance & delay info](https://www.flightera.net/)
 
 ## right to compensation
-
-- link to distace calculator 
 
  1500km | 1500 - 2500 km | +2500km
  -- | -- | --
  250 | 400 | 600
+  
 
 ## [Norwegian](https://www.norwegian.com/en/ipr/refund#/expenseclaim?rcategory=DELAY)
 
