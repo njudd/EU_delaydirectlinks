@@ -31,3 +31,9 @@ Further barriers
 
 ## [Vueling](https://www.vueling.com/en/we-are-vueling/contact/send-us-a-message?category=10)
 
+## [WOW](https://wowair.co.uk/manage/)
+
+Further barriers
+<br>
+- They have multiple processes depending on if you have a booking number or the date of the flight, this seems unnecessary and meant to confuse claimants.
+
