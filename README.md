@@ -1,8 +1,8 @@
 # Direct links to claim EU 261 delay compensation
 
-Airlines have the bad habit of hiding their compensation claim forms. So I thought I'd make a readme with an explanation of under what conditions you can claim compensation with direct links to do so. 
+Airlines have the bad habit of hiding their compensation claim forms. So I thought I'd make a readme with an explanation of under what conditions you can claim compensation with direct links to do so. This applies to delays over a certain amount of time/distance that are not due to "extraordinary circumstances", this definition is always in flux... Unless there is a clear weather related issue, I would always claim.
 <br>
-right now it's a work in progress!
+Right now it's a work in progress! I only work on it while I am waiting for a delayed flight.
 
 [wiki](https://www.wikiwand.com/en/Flight_Compensation_Regulation_261/2004)
 <br>
